@@ -1,0 +1,5 @@
+C:\Users\alek\source\repos\DiscordBot\DiscordBot.DAL\bin\Debug\netstandard2.0\DiscordBot.DAL.deps.json
+C:\Users\alek\source\repos\DiscordBot\DiscordBot.DAL\bin\Debug\netstandard2.0\DiscordBot.DAL.dll
+C:\Users\alek\source\repos\DiscordBot\DiscordBot.DAL\obj\Debug\netstandard2.0\DiscordBot.DAL.csprojAssemblyReference.cache
+C:\Users\alek\source\repos\DiscordBot\DiscordBot.DAL\obj\Debug\netstandard2.0\DiscordBot.DAL.AssemblyInfoInputs.cache
+C:\Users\alek\source\repos\DiscordBot\DiscordBot.DAL\obj\Debug\netstandard2.0\DiscordBot.DAL.AssemblyInfo.cs

@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alek\\source\\repos\\DiscordBot\\DiscordBot.DAL\\DiscordBot.DAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alek\\source\\repos\\DiscordBot\\DiscordBot.DAL\\DiscordBot.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alek\\source\\repos\\DiscordBot\\DiscordBot.DAL\\DiscordBot.DAL.csproj",
+        "projectName": "DiscordBot.DAL",
+        "projectPath": "C:\\Users\\alek\\source\\repos\\DiscordBot\\DiscordBot.DAL\\DiscordBot.DAL.csproj",
+        "packagesPath": "C:\\Users\\alek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alek\\source\\repos\\DiscordBot\\DiscordBot.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20312.4, )"
+            },
+            "Microsoft.Owin.Hosting": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
